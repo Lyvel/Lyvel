@@ -2,7 +2,7 @@
 
 🌱 I'm a Junior Full Stack Developer passionate about web development, especially with **Next.js**.
 
-![Banner Image of Your Choice](https://prnt.sc/laO8aWQntz9C)
+![](https://img001.prntscr.com/file/img001/ld11GlOYTeeFlMkAyq2btA.png)
 
 ## 🛠️ My Skills
 
