@@ -13,6 +13,7 @@
 
 ## 🔭 Current Projects
 
+- [Task Manager](https://github.com/Lyvel/task-manager) - A web-based task manager where users can log in, create, and organize tasks efficiently, with integrated PostgreSQL database support.
 - [Insight Node](https://github.com/Lyvel/insight-node) - A Q&A style website where user can post questions and recieve answers from others.
 - [Geosniffer](https://github.com/Lyvel/GeoSniffer) - A simple country info fetcher.
 - [More Projects...](https://github.com/Lyvel?tab=repositories)
