@@ -22,7 +22,7 @@
 
 - 📝 [Portfolio](https://lyvel.co.uk/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dawid-mleczko/)
-- ✉️ Email: dawid@lyvel.co.uk
+- ✉️ [Email](mailto:dawid@lyvel.co.uk)
 
 <!---
 ## 📊 GitHub Stats
