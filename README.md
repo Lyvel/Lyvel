@@ -2,7 +2,8 @@
 
 🌱 I'm a Full Stack Developer passionate about web development.
 
-![](https://img001.prntscr.com/file/img001/8ZMb8kScTjKLfltq0J5TaA.png)
+<!--
+![](https://img001.prntscr.com/file/img001/8ZMb8kScTjKLfltq0J5TaA.png)-->
 
 ## 🛠️ My Skills
 
@@ -26,8 +27,8 @@
 - ✉️ [Email](mailto:dawid@lyvel.co.uk)
 
 
+<!--
 ## 📊 GitHub Stats
-
-<!---![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyvel&show_icons=true&count_private=true&theme=radical)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyvel&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyvel&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyvel&layout=compact&theme=radical)-->
 
