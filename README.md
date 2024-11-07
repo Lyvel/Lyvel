@@ -1,14 +1,14 @@
 # 👋 Hello, World! I'm Dawid (Lyvel)
 
-🌱 I'm a Junior Full Stack Developer passionate about web development, especially with **Next.js**.
+🌱 I'm a Full Stack Developer passionate about web development.
 
 ![](https://img001.prntscr.com/file/img001/8ZMb8kScTjKLfltq0J5TaA.png)
 
 ## 🛠️ My Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, PostgreSQL
+- **Frontend:** HTML, CSS, JavaScript, React, Remix
+- **Backend:** Node.js, Express.js, Remix
+- **Databases:** Prisma, PostgreSQL
 - **Tools:** Git, VSCode
 
 ## 🔭 Current Projects
@@ -21,7 +21,7 @@
 
 ## 🌍 Let's Connect!
 
-- 📝 [Portfolio](https://lyvel.co.uk/)
+- 📝 [Portfolio](https://dawidmleczko.dev/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dawid-mleczko/)
 - ✉️ [Email](mailto:dawid@lyvel.co.uk)
 
